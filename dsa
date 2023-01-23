@@ -1,0 +1,104 @@
+[33mcommit 6abd2f9bef375262bb7d99ebd98c9dfd36613275[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Tomas Cardenas <tomas.cardenas@dispapeles.com>
+Date:   Sun Jun 26 16:00:25 2022 -0500
+
+    Correccion de carpetas
+
+[33mcommit a1d0589e8ee3a5a3f5893619cc373b30b8276ac8[m
+Author: Tomas Cardenas <tomas.cardenas@dispapeles.com>
+Date:   Sun Jun 26 15:59:51 2022 -0500
+
+    Correccion de carpetas
+
+[33mcommit e2ad30a93ea7eff1fca58d452062b47358ba159e[m
+Author: TomasCardeLo <108236350+TomasCardeLo@users.noreply.github.com>
+Date:   Sun Jun 26 15:58:34 2022 -0500
+
+    Update README.md
+
+[33mcommit b3d2f9da8352a450ddc6160e80d6dd88f833be90[m
+Merge: db35587 2d29214
+Author: Tomas Cardenas <tomas.cardenas@dispapeles.com>
+Date:   Sun Jun 26 15:57:34 2022 -0500
+
+    Primera version del entorno de trabajo
+
+[33mcommit 2d292147fefb91d1b32e2fa1fa340ba95bc40fb7[m
+Author: TomasCardeLo <108236350+TomasCardeLo@users.noreply.github.com>
+Date:   Sun Jun 26 15:55:14 2022 -0500
+
+    Initial commit
+
+[33mcommit db355875335807961f0ac36ec59f4d278b518adb[m
+Author: Tomas Cardenas <tomas.cardenas@dispapeles.com>
+Date:   Sun Jun 26 15:50:03 2022 -0500
+
+    Primera version repositorio
+
+[33mcommit 5b55010157dc1bb459d9ad6505987a3229943a3e[m
+Author: TomasCardeLo <108236350+TomasCardeLo@users.noreply.github.com>
+Date:   Sun Jun 26 15:47:20 2022 -0500
+
+    Delete Clustering-zonas.ipynb
+
+[33mcommit ef8802b3d83c9ecd9c2796c0078bb44c17e72413[m
+Author: TomasCardeLo <108236350+TomasCardeLo@users.noreply.github.com>
+Date:   Sun Jun 26 15:47:14 2022 -0500
+
+    Delete Clustering-distritos.ipynb
+
+[33mcommit 31d7e61b88c300dfa899a3f5702ce0c12e67bae2[m
+Merge: 5e7df4f 8616723
+Author: Tomas Cardenas <tomas.cardenas@dispapeles.com>
+Date:   Sun Jun 26 15:45:25 2022 -0500
+
+    Merge branch 'master' of https://github.com/TomasCardeLo/Portafolio-TCL-Git
+
+[33mcommit 86167232f94237e58204bb85940e7089469e6942[m
+Author: TomasCardeLo <108236350+TomasCardeLo@users.noreply.github.com>
+Date:   Sun Jun 26 15:42:43 2022 -0500
+
+    Delete Python directory
+
+[33mcommit 5e7df4f1ccb1d387e9005e5e319d5366c006b8cf[m
+Author: Tomas Cardenas <tomas.cardenas@dispapeles.com>
+Date:   Sun Jun 26 15:37:44 2022 -0500
+
+    Primer version de clustering
+
+[33mcommit 38071779aaa2b2a23e468bff99a3f6fb124bd033[m
+Author: Tomas Cardenas <tomas.cardenas@dispapeles.com>
+Date:   Sun Jun 26 14:28:22 2022 -0500
+
+    Actualizacion a ssh
+
+[33mcommit 6b9e744e876c94d234b39a24a101929ccb02e0f1[m
+Merge: b2f8688 f383d34
+Author: Tomas Cardenas <tomas.cardenas@dispapeles.com>
+Date:   Sun Jun 26 13:52:37 2022 -0500
+
+    Merge branch 'master' of https://github.com/TomasCardeLo/Portafolio-TCL-Git
+
+[33mcommit f383d347e51ee711dca0b428ecbb23017ff79e58[m
+Author: TomasCardeLo <108236350+TomasCardeLo@users.noreply.github.com>
+Date:   Sun Jun 26 13:40:18 2022 -0500
+
+    Initial commit
+
+[33mcommit b2f868865882fc8ccca1517843fb056c2cd68e2a[m
+Author: Tomas Cardenas <tomas.cardenas@dispapeles.com>
+Date:   Sun Jun 26 10:20:57 2022 -0500
+
+    Esta es la version de prueba de conexion odbc en py
+
+[33mcommit a632c22b9354ca187e4eaa792c73c0bb42475b1b[m
+Author: Tomas Cardenas <tomas.cardenas@dispapeles.com>
+Date:   Sun Jun 26 10:20:22 2022 -0500
+
+    Esta es la primer vesion del clustering por zonas
+
+[33mcommit 9fc4c5fb9f2b3a9099f0a929f92ea5b1f0bac13d[m
+Author: Tomas Cardenas <tomas.cardenas@dispapeles.com>
+Date:   Sun Jun 26 10:19:18 2022 -0500
+
+    Esta es la primer vesion del clustering por distritos
