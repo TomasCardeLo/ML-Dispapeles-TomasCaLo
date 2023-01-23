@@ -1,0 +1,4 @@
+Ano,Mes,Codigo distrito,Codigo zona,Nit cliente,Codigo tipo,Codigo linea,Codigo grupo,Codigo calidad,Gerente,Línea CAM,Ventas,Codigo distrito-zona,Anomaly,Anomaly_Score
+2021,2,25,300,900298483,240,170,13,35,Tecnología Institucional,Tecnología institucional,67160.0000,25-300,1,0.7739585325352039
+2021,8,25,300,98394634,101,1,1,1,Papel para escritura,Bond,4347046.0000,25-300,1,2.36614981584232
+2022,4,25,300,80221813,999,999,3,999,No aplica,Otros ingresos,19000000.0000,25-300,1,30.175702115034632

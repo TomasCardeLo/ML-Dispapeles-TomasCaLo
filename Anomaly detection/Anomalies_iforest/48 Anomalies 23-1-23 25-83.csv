@@ -1,0 +1,5 @@
+Ano,Mes,Codigo distrito,Codigo zona,Nit cliente,Codigo tipo,Codigo linea,Codigo grupo,Codigo calidad,Gerente,Línea CAM,Ventas,Codigo distrito-zona,Anomaly,Anomaly_Score
+2021,9,25,83,800092198,130,1,240,510,Papeles especiales,Autoadhesivos,206264.0000,25-83,1,0.04909946023535583
+2021,9,25,83,891200645,130,1,240,510,Papeles especiales,Autoadhesivos,1743368.0000,25-83,1,0.04923559662630361
+2021,10,25,83,891200274,130,1,240,510,Papeles especiales,Autoadhesivos,235410.0000,25-83,1,0.04693105510989459
+2022,9,25,83,891201261,130,1,240,510,Papeles especiales,Autoadhesivos,141910.0000,25-83,1,0.046407204538419344

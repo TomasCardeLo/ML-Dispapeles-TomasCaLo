@@ -1,0 +1,9 @@
+Ano,Mes,Codigo distrito,Codigo zona,Nit cliente,Codigo tipo,Codigo linea,Codigo grupo,Codigo calidad,Gerente,Línea CAM,Ventas,Codigo distrito-zona,Anomaly,Anomaly_Score
+2021,2,10,12,806005329,999,999,2,999,No aplica,Otros ingresos,2056572.0000,10-12,1,33.33073044788067
+2021,6,10,12,830039670,999,999,2,999,No aplica,Otros ingresos,0.1000,10-12,1,31.695456950771785
+2021,8,10,12,800131292,999,999,2,999,No aplica,Otros ingresos,0.0300,10-12,1,33.8190961870629
+2021,12,10,12,899999737,999,999,2,999,No aplica,Otros ingresos,666.4000,10-12,1,31.520862028251415
+2022,3,10,12,900528648,301,5,12,999,Outsourcing de proveeduría,Outsourcing de proveeduría,96250.0000,10-12,1,30.900579418958188
+2022,6,10,12,900528648,301,5,12,999,Outsourcing de proveeduría,Outsourcing de proveeduría,96250.0000,10-12,1,30.86313064924788
+2022,11,10,12,899999270,224,214,66,83,Prodispel,Documentos valor,656043618.0000,10-12,1,110.07571495729937
+2022,12,10,12,899999270,224,214,66,83,Prodispel,Documentos valor,335546000.0000,10-12,1,52.51035324216846

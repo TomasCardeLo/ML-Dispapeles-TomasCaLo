@@ -1,0 +1,5 @@
+Ano,Mes,Codigo distrito,Codigo zona,Nit cliente,Codigo tipo,Codigo linea,Codigo grupo,Codigo calidad,Gerente,Línea CAM,Ventas,Codigo distrito-zona,Anomaly,Anomaly_Score
+2022,3,75,97,860028580,990,990,2,902,No aplica,Otros ingresos,62800.0000,75-97,1,10.653476083495754
+2022,6,75,97,860028580,135,1,181,245,Papeles especiales,Papeles Finos,8522051.9600,75-97,1,45.49517130672214
+2022,7,75,97,800105213,999,999,2,999,No aplica,Otros ingresos,46287.0000,75-97,1,14.022606880483394
+2022,8,75,97,800105213,999,999,2,999,No aplica,Otros ingresos,46830.0000,75-97,1,14.026675077410324

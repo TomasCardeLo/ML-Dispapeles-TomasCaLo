@@ -1,0 +1,4 @@
+Ano,Mes,Codigo distrito,Codigo zona,Nit cliente,Codigo tipo,Codigo linea,Codigo grupo,Codigo calidad,Gerente,Línea CAM,Ventas,Codigo distrito-zona,Anomaly,Anomaly_Score
+2022,3,20,60,890300279,240,170,17,82,Tecnología Institucional,Tecnología institucional,15621570.0000,20-60,1,0.042131162158260904
+2022,6,20,60,890300279,301,6,2,345,PPD,PID,34320688.4400,20-60,1,0.04781076121517719
+2022,8,20,60,890300279,301,6,2,345,PPD,PID,17834803.2200,20-60,1,0.045614031484766615

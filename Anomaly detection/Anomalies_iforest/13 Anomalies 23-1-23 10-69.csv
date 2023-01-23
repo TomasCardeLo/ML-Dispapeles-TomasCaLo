@@ -1,0 +1,4 @@
+Ano,Mes,Codigo distrito,Codigo zona,Nit cliente,Codigo tipo,Codigo linea,Codigo grupo,Codigo calidad,Gerente,Línea CAM,Ventas,Codigo distrito-zona,Anomaly,Anomaly_Score
+2021,3,10,69,41653637,220,116,66,1,Prodispel,Formas de linea,510240.0000,10-69,1,0.04574933476502252
+2021,3,10,69,800240724,301,5,12,13,Outsourcing de proveeduría,Outsourcing de proveeduría,6975351.0000,10-69,1,0.04048277670915551
+2021,3,10,69,800240724,301,5,12,999,Outsourcing de proveeduría,Outsourcing de proveeduría,2077307.0000,10-69,1,0.04059379974366367

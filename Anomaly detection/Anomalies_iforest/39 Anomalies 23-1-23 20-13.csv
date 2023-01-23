@@ -1,0 +1,4 @@
+Ano,Mes,Codigo distrito,Codigo zona,Nit cliente,Codigo tipo,Codigo linea,Codigo grupo,Codigo calidad,Gerente,Línea CAM,Ventas,Codigo distrito-zona,Anomaly,Anomaly_Score
+2021,5,20,13,900136588,160,162,120,415,Offset,Planchas,1119680.0000,20-13,1,0.0481720169109518
+2021,6,20,13,800008676,160,162,120,416,Offset,Planchas,423600.0000,20-13,1,0.04398759436749905
+2022,5,20,13,900136588,160,162,120,415,Offset,Planchas,615824.0000,20-13,1,0.04501333120799239
