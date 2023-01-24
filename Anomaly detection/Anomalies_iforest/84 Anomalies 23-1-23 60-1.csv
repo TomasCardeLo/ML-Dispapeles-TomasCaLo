@@ -1,5 +1,0 @@
-Ano,Mes,Codigo distrito,Codigo zona,Nit cliente,Codigo tipo,Codigo linea,Codigo grupo,Codigo calidad,Gerente,Línea CAM,Ventas,Codigo distrito-zona,Anomaly,Anomaly_Score
-2022,1,60,1,890209503,160,161,120,500,Offset,Consumibles,122858.0000,60-1,1,0.05364346011423565
-2022,1,60,1,890209503,160,161,192,500,Offset,Consumibles,481344.0000,60-1,1,0.05581447769607456
-2022,1,60,1,890209503,160,162,120,416,Offset,Planchas,1993640.0000,60-1,1,0.04096381386887443
-2022,1,60,1,890209503,160,171,192,480,Offset,Planchas,780912.0000,60-1,1,0.041858710252074716
