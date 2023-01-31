@@ -1,0 +1,66 @@
+Distrito-zona;Modelo;Silhouette;Calinski-Harabasz;Davies-Bouldin
+10-Artes graficas;kmeans;0,7661;2134,2232;0,512
+10-Institucional;kmeans;0,9437;14501,7164;0,1813
+10-Mayorista;kmeans;0,798;2010,1265;0,379
+10-V Horeca;kmeans;0,7277;2825,2782;0,1981
+10-V Industria;kmeans;0,7652;2339,9547;0,3789
+10-V SyE;kmeans;0,793;2113,8147;0,3771
+15-Artes graficas;kmeans;0,7556;7519,3514;0,308
+15-Institucional;kmeans;0,7994;2170,1978;0,4893
+15-Mayorista;kmeans;0,8133;1421,9375;0,3579
+17-Artes graficas;kmeans;0,764;1350,3351;0,3892
+17-Institucional;kmeans;0,8339;2011,5142;0,2699
+17-Mayorista;kmeans;0,8126;2484,6008;0,3573
+20-Artes graficas;kmeans;0,8684;3439,7994;0,3587
+20-Institucional;kmeans;0,8136;4364,0089;0,2845
+20-Mayorista;kmeans;0,811;1739,7984;0,3228
+20-V Horeca;kmeans;0,8151;971,3879;0,331
+20-V Industria;kmeans;0,6211;349,1447;0,3556
+20-V SyE;kmeans;0,7492;528,5211;0,2589
+25-Artes graficas;kmeans;0,7339;1372,1996;0,3757
+25-Institucional;kmeans;0,774;2211,8203;0,4543
+25-Mayorista;kmeans;0,8441;2371,4805;0,2842
+40-Artes graficas;kmeans;0,792;3294,6831;0,5046
+40-Institucional;kmeans;0,8633;91454,5605;0,3566
+40-Mayorista;kmeans;0,7303;1179,4525;0,4287
+40-V Horeca;kmeans;0,7189;759,2804;0,4501
+40-V Industria;kmeans;0,7951;1393,4913;0,3914
+45-Institucional;kmeans;0,7422;1121,161;0,4755
+45-Mayorista;kmeans;0,8811;1793,9722;0,2981
+50-Artes graficas;kmeans;0,8552;1990,3202;0,4394
+50-Institucional;kmeans;0,9124;17161,3303;0,259
+50-Mayorista;kmeans;0,8444;2012,7218;0,1904
+50-V Horeca;kmeans;0,6985;2429,9994;0,349
+50-V Industria;kmeans;0,7669;1167,0822;0,3847
+50-V SyE;kmeans;0,7948;2096,2325;0,2596
+52-Artes graficas;kmeans;0,7857;685,2419;0,2921
+52-Institucional;kmeans;0,812;2257,8188;0,3795
+52-Mayorista;kmeans;0,7841;822,6952;0,4193
+53-Artes graficas;kmeans;0,7654;1104,0903;0,2888
+53-Institucional;kmeans;0,7049;1567,569;0,3151
+53-Mayorista;kmeans;0,6535;287,8734;0,4727
+55-Artes graficas;kmeans;0,7601;4519,9955;0,243
+55-Institucional;kmeans;0,7845;1864,3943;0,4543
+55-Mayorista;kmeans;0,8139;5967,4824;0,2414
+60-Artes graficas;kmeans;0,8022;1614,5292;0,3789
+60-Institucional;kmeans;0,8887;22330,4924;0,2837
+60-Mayorista;kmeans;0,8478;2582,2497;0,2397
+60-V Horeca;kmeans;0,7224;1493,8265;0,3678
+60-V SyE;kmeans;0,81;5487,0252;0,1648
+65-Institucional;kmeans;0,8001;1973,2277;0,2569
+65-Mayorista;kmeans;0,8292;1412,0739;0,2994
+65-V SyE;kmeans;0,7328;3713,8871;0,2425
+70-Artes graficas;kmeans;0,7778;786,254;0,2745
+70-Institucional;kmeans;0,8225;3894,8662;0,439
+70-Mayorista;kmeans;0,648;348,7435;0,4506
+70-V Horeca;kmeans;0,7909;1082,2077;0,2075
+71-Artes graficas;kmeans;0,9201;1920,1653;0,1476
+71-Institucional;kmeans;0,8246;8294,8815;0,2728
+71-Mayorista;kmeans;0,5286;1211,7376;0,2384
+71-V Industria;kmeans;0,8565;981,4906;0,3765
+75-Artes graficas;kmeans;0,7136;761,8513;0,4243
+75-Institucional;kmeans;0,8705;2290,0138;0,3489
+75-Mayorista;kmeans;0,8336;3058,41;0,3456
+90-Artes graficas;kmeans;0,795;4075,258;0,4179
+90-Institucional;kmeans;0,8305;4233,525;0,3621
+90-Mayorista;kmeans;0,7761;3284,4376;0,3529
