@@ -4667,3 +4667,26 @@ AssertionError
 2023-02-03 18:42:17,695:INFO:Checking exceptions
 2023-02-03 18:42:17,695:INFO:Preloading libraries
 2023-02-03 18:42:17,695:INFO:Preparing display monitor
+2023-02-03 21:40:02,131:INFO:Initializing predict_model()
+2023-02-03 21:40:02,136:INFO:predict_model(estimator=PowerTransformedTargetRegressor(alpha=1.0, copy_X=True, fit_intercept=True,
+                                l1_ratio=0.5, max_iter=1000, normalize=False,
+                                positive=False,
+                                power_transformer_method='box-cox',
+                                power_transformer_standardize=True,
+                                precompute=False, random_state=42,
+                                regressor=ElasticNet(alpha=1.0, copy_X=True,
+                                                     fit_intercept=True,
+                                                     l1_ratio=0.5,
+                                                     max_iter=1000,
+                                                     normalize=False,
+                                                     positive=False,
+                                                     precompute=False,
+                                                     random_state=42,
+                                                     selection='cyclic',
+                                                     tol=0.0001,
+                                                     warm_start=False),
+                                selection='cyclic', tol=0.0001,
+                                warm_start=False), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2023-02-03 21:40:02,137:INFO:Checking exceptions
+2023-02-03 21:40:02,137:INFO:Preloading libraries
+2023-02-03 21:40:02,144:INFO:Preparing display monitor
