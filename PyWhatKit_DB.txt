@@ -13,3 +13,8 @@ Time: 9:22
 Phone Number: +573044850272
 Message: Esta podría ser una forma de compartir resultados diariamente
 --------------------
+Date: 8/2/2023
+Time: 6:45
+Phone Number: +573132332437
+Message: Prueba
+--------------------
