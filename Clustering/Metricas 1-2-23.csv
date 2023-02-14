@@ -1,65 +1,65 @@
 Distrito-zona;Silhouette;Calinski-Harabasz;Davies-Bouldin;Tipo zona
-10-Artes graficas;0,7663;2134,3298;0,5118;Artes graficas
-10-Institucional;0,9437;14490,4983;0,1813;Institucional
-10-Mayorista;0,798;2010,1265;0,379;Mayorista
-10-V Horeca;0,7142;2685,7809;0,2087;V Horeca
-10-V Industria;0,761;2331,7184;0,3859;V Industria
-10-V SyE;0,793;2113,8147;0,3771;V SyE
-15-Artes graficas;0,7556;7519,3514;0,308;Artes graficas
-15-Institucional;0,7994;2170,1978;0,4893;Institucional
-15-Mayorista;0,8133;1421,9375;0,3579;Mayorista
-17-Artes graficas;0,7651;1303,2317;0,3937;Artes graficas
-17-Institucional;0,8339;2011,5142;0,2699;Institucional
-17-Mayorista;0,8082;2337,6025;0,3679;Mayorista
-20-Artes graficas;0,8026;3468,5085;0,4354;Artes graficas
-20-Institucional;0,7905;4758,0245;0,3885;Institucional
-20-Mayorista;0,8107;1738,7081;0,3193;Mayorista
-20-V Horeca;0,8151;971,3879;0,331;V Horeca
-20-V SyE;0,7492;528,5211;0,2589;V SyE
-25-Artes graficas;0,7339;1372,1996;0,3757;Artes graficas
-25-Institucional;0,774;2211,8203;0,4543;Institucional
-25-Mayorista;0,8441;2371,4805;0,2842;Mayorista
-40-Artes graficas;0,7942;3273,5383;0,4969;Artes graficas
-40-Institucional;0,8638;89779,1027;0,4159;Institucional
-40-Mayorista;0,7303;1179,4525;0,4287;Mayorista
-40-V Horeca;0,7189;759,2804;0,4501;V Horeca
-40-V Industria;0,7953;1378,2206;0,3917;V Industria
-45-Institucional;0,7395;1124,1826;0,478;Institucional
-45-Mayorista;0,8811;1793,9722;0,2981;Mayorista
-50-Artes graficas;0,8426;1590,1949;0,3604;Artes graficas
-50-Institucional;0,8444;2564,8534;0,371;Institucional
-50-Mayorista;0,8444;2012,7218;0,1904;Mayorista
-50-V Horeca;0,669;2171,9125;0,3611;V Horeca
-50-V Industria;0,7286;839,0842;0,4012;V Industria
-50-V SyE;0,7948;2096,2325;0,2596;V SyE
-52-Artes graficas;0,7784;595,3261;0,2928;Artes graficas
-52-Institucional;0,8222;3418,0734;0,3163;Institucional
-52-Mayorista;0,7841;822,6952;0,4193;Mayorista
-53-Artes graficas;0,7401;919,4492;0,2906;Artes graficas
-53-Institucional;0,7108;1550,1162;0,3103;Institucional
-53-Mayorista;0,6861;314,8724;0,4535;Mayorista
-55-Artes graficas;0,7427;3920,6989;0,2153;Artes graficas
-55-Institucional;0,8022;1733,2351;0,4474;Institucional
-55-Mayorista;0,8139;5967,4824;0,2414;Mayorista
-60-Artes graficas;0,8;1574,9121;0,3797;Artes graficas
-60-Institucional;0,8887;22330,4924;0,2837;Institucional
-60-Mayorista;0,8493;2579,8133;0,2404;Mayorista
-60-V Horeca;0,7224;1493,8265;0,3678;V Horeca
-60-V SyE;0,81;5487,0252;0,1648;V SyE
-65-Institucional;0,8001;1973,2277;0,2569;Institucional
-65-Mayorista;0,8292;1412,0739;0,2994;Mayorista
-65-V SyE;0,7328;3713,8871;0,2425;V SyE
-70-Artes graficas;0,7833;787,273;0,2732;Artes graficas
-70-Institucional;0,8223;3889,0315;0,439;Institucional
-70-Mayorista;0,648;348,7435;0,4506;Mayorista
-70-V Horeca;0,7947;1107,354;0,2068;V Horeca
-71-Artes graficas;0,9201;1920,1653;0,1476;Artes graficas
-71-Institucional;0,8246;8294,8815;0,2728;Institucional
-71-Mayorista;0,5286;1211,7376;0,2384;Mayorista
-71-V Industria;0,8565;981,4906;0,3765;V Industria
-75-Artes graficas;0,7136;761,8513;0,4243;Artes graficas
-75-Institucional;0,8705;2290,0138;0,3489;Institucional
-75-Mayorista;0,8336;3058,41;0,3456;Mayorista
-90-Artes graficas;0,795;4075,258;0,4179;Artes graficas
-90-Institucional;0,8222;4185,4214;0,3762;Institucional
-90-Mayorista;0,7761;3284,4376;0,3529;Mayorista
+10-Artes graficas;0,77;$ 2.134;0,51;Artes graficas
+10-Institucional;0,94;$ 14.490;0,18;Institucional
+10-Mayorista;0,80;$ 2.010;0,38;Mayorista
+10-V Horeca;0,71;$ 2.686;0,21;V Horeca
+10-V Industria;0,76;$ 2.332;0,39;V Industria
+10-V SyE;0,79;$ 2.114;0,38;V SyE
+15-Artes graficas;0,76;$ 7.519;0,31;Artes graficas
+15-Institucional;0,80;$ 2.170;0,49;Institucional
+15-Mayorista;0,81;$ 1.422;0,36;Mayorista
+17-Artes graficas;0,77;$ 1.303;0,39;Artes graficas
+17-Institucional;0,83;$ 2.012;0,27;Institucional
+17-Mayorista;0,81;$ 2.338;0,37;Mayorista
+20-Artes graficas;0,80;$ 3.469;0,44;Artes graficas
+20-Institucional;0,79;$ 4.758;0,39;Institucional
+20-Mayorista;0,81;$ 1.739;0,32;Mayorista
+20-V Horeca;0,82;$ 971;0,33;V Horeca
+20-V SyE;0,75;$ 529;0,26;V SyE
+25-Artes graficas;0,73;$ 1.372;0,38;Artes graficas
+25-Institucional;0,77;$ 2.212;0,45;Institucional
+25-Mayorista;0,84;$ 2.371;0,28;Mayorista
+40-Artes graficas;0,79;$ 3.274;0,50;Artes graficas
+40-Institucional;0,86;$ 89.779;0,42;Institucional
+40-Mayorista;0,73;$ 1.179;0,43;Mayorista
+40-V Horeca;0,72;$ 759;0,45;V Horeca
+40-V Industria;0,80;$ 1.378;0,39;V Industria
+45-Institucional;0,74;$ 1.124;0,48;Institucional
+45-Mayorista;0,88;$ 1.794;0,30;Mayorista
+50-Artes graficas;0,84;$ 1.590;0,36;Artes graficas
+50-Institucional;0,84;$ 2.565;0,37;Institucional
+50-Mayorista;0,84;$ 2.013;0,19;Mayorista
+50-V Horeca;0,67;$ 2.172;0,36;V Horeca
+50-V Industria;0,73;$ 839;0,40;V Industria
+50-V SyE;0,79;$ 2.096;0,26;V SyE
+52-Artes graficas;0,78;$ 595;0,29;Artes graficas
+52-Institucional;0,82;$ 3.418;0,32;Institucional
+52-Mayorista;0,78;$ 823;0,42;Mayorista
+53-Artes graficas;0,74;$ 919;0,29;Artes graficas
+53-Institucional;0,71;$ 1.550;0,31;Institucional
+53-Mayorista;0,69;$ 315;0,45;Mayorista
+55-Artes graficas;0,74;$ 3.921;0,22;Artes graficas
+55-Institucional;0,80;$ 1.733;0,45;Institucional
+55-Mayorista;0,81;$ 5.967;0,24;Mayorista
+60-Artes graficas;0,80;$ 1.575;0,38;Artes graficas
+60-Institucional;0,89;$ 22.330;0,28;Institucional
+60-Mayorista;0,85;$ 2.580;0,24;Mayorista
+60-V Horeca;0,72;$ 1.494;0,37;V Horeca
+60-V SyE;0,81;$ 5.487;0,16;V SyE
+65-Institucional;0,80;$ 1.973;0,26;Institucional
+65-Mayorista;0,83;$ 1.412;0,30;Mayorista
+65-V SyE;0,73;$ 3.714;0,24;V SyE
+70-Artes graficas;0,78;$ 787;0,27;Artes graficas
+70-Institucional;0,82;$ 3.889;0,44;Institucional
+70-Mayorista;0,65;$ 349;0,45;Mayorista
+70-V Horeca;0,79;$ 1.107;0,21;V Horeca
+71-Artes graficas;0,92;$ 1.920;0,15;Artes graficas
+71-Institucional;0,82;$ 8.295;0,27;Institucional
+71-Mayorista;0,53;$ 1.212;0,24;Mayorista
+71-V Industria;0,86;$ 981;0,38;V Industria
+75-Artes graficas;0,71;$ 762;0,42;Artes graficas
+75-Institucional;0,87;$ 2.290;0,35;Institucional
+75-Mayorista;0,83;$ 3.058;0,35;Mayorista
+90-Artes graficas;0,80;$ 4.075;0,42;Artes graficas
+90-Institucional;0,82;$ 4.185;0,38;Institucional
+90-Mayorista;0,78;$ 3.284;0,35;Mayorista
