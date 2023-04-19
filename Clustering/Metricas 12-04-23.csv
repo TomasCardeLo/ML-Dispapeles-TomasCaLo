@@ -1,68 +1,68 @@
 Distrito-zona;Silhouette;Calinski-Harabasz;Davies-Bouldin;Tipo zona
-10-Artes graficas;0,4426;596,7175;0,9582;Artes graficas
-10-Institucional;0,4816;1234,1013;0,8578;Institucional
-10-Mayorista;0,4247;188,1152;0,9578;Mayorista
-10-TIG;0,4929;340,346;0,8717;TIG
-10-V Horeca;0,4513;105,0443;0,7425;V Horeca
-10-V Industria;0,6286;100,8947;0,6704;V Industria
-10-V SyE;0,4634;224,065;0,8453;V SyE
-15-Artes graficas;0,4728;165,609;0,7983;Artes graficas
-15-Institucional;0,4846;428,4205;0,955;Institucional
-15-Mayorista;0,4927;191,6225;0,8093;Mayorista
-17-Artes graficas;0,4768;112,923;0,8928;Artes graficas
-17-Institucional;0,4575;161,1283;0,8775;Institucional
-17-Mayorista;0,4293;134,1554;0,8693;Mayorista
-20-Artes graficas;0,4539;622,2767;0,8459;Artes graficas
-20-Institucional;0,4784;877,8359;0,8864;Institucional
-20-Mayorista;0,4404;349,1477;0,9067;Mayorista
-20-V Horeca;0,4864;108,301;0,8331;V Horeca
-20-V SyE;0,4821;72,0294;0,7689;V SyE
-25-Artes graficas;0,4743;84,2833;0,7901;Artes graficas
-25-Institucional;0,4643;265,0932;0,8827;Institucional
-25-Mayorista;0,482;132,9716;0,7444;Mayorista
-40-Artes graficas;0,4904;971,428;0,8308;Artes graficas
-40-Institucional;0,481;1335,4283;0,8445;Institucional
-40-Mayorista;0,4649;165,06;0,8219;Mayorista
-40-V Horeca;0,5222;80,4017;0,7548;V Horeca
-40-V Industria;0,5499;180,9572;0,8286;V Industria
-45-Institucional;0,4632;138,5189;0,8335;Institucional
-45-Mayorista;0,4594;305,257;0,8674;Mayorista
-50-Artes graficas;0,4937;252,6094;0,8581;Artes graficas
-50-Institucional;0,4612;351,1704;0,9129;Institucional
-50-Mayorista;0,4105;123,8158;0,8843;Mayorista
+10-Artes graficas;0,3849;545,1312;0,9769;Artes graficas
+10-Institucional;0,3914;1060,4236;1,0358;Institucional
+10-Mayorista;0,3946;177,9849;0,9917;Mayorista
+10-TIG;0,4161;286,7094;0,9368;TIG
+10-V Horeca;0,436;98,9455;0,8487;V Horeca
+10-V Industria;0,4441;64,4667;0,9096;V Industria
+10-V SyE;0,3845;199,9869;0,9497;V SyE
+15-Artes graficas;0,4079;144,1405;0,9168;Artes graficas
+15-Institucional;0,3958;377,25;1,03;Institucional
+15-Mayorista;0,4346;164,849;0,8681;Mayorista
+17-Artes graficas;0,432;107,4647;0,8528;Artes graficas
+17-Institucional;0,414;152,7464;0,9709;Institucional
+17-Mayorista;0,3663;128,5935;1,0587;Mayorista
+20-Artes graficas;0,3759;521,16;1,0196;Artes graficas
+20-Institucional;0,3836;724,4332;1,0242;Institucional
+20-Mayorista;0,3715;286,961;0,9668;Mayorista
+20-V Horeca;0,4442;101,6978;0,7831;V Horeca
+20-V SyE;0,414;59,941;0,8961;V SyE
+25-Artes graficas;0,4178;73,4702;0,8422;Artes graficas
+25-Institucional;0,3812;241,2571;0,9132;Institucional
+25-Mayorista;0,423;130,962;0,837;Mayorista
+40-Artes graficas;0,3915;892,3279;1,0096;Artes graficas
+40-Institucional;0,4064;1164,8856;1,0193;Institucional
+40-Mayorista;0,3993;154,0054;0,9998;Mayorista
+40-V Horeca;0,4285;63,9325;0,9365;V Horeca
+40-V Industria;0,5092;154,2309;0,8506;V Industria
+45-Institucional;0,4135;131,1613;0,9058;Institucional
+45-Mayorista;0,3831;269,5764;0,9291;Mayorista
+50-Artes graficas;0,4136;225,3837;0,9627;Artes graficas
+50-Institucional;0,4033;330,8246;0,9819;Institucional
+50-Mayorista;0,3726;122,3724;0,9617;Mayorista
 50-V Horeca;0,8178;136,8519;0,362;V Horeca
-50-V Industria;0,5005;118,6967;0,8191;V Industria
-50-V SyE;0,4426;74,098;0,8503;V SyE
-52-Artes graficas;0,4622;57,4489;0,8349;Artes graficas
-52-Institucional;0,4679;189,1739;1,01;Institucional
-52-Mayorista;0,4441;93,5795;0,8845;Mayorista
-53-Artes graficas;0,6118;56,6388;0,6899;Artes graficas
-53-Institucional;0,4699;95,9469;0,7898;Institucional
-53-Mayorista;0,5112;77,547;0,7917;Mayorista
-55-Artes graficas;0,4205;68,026;0,9443;Artes graficas
-55-Institucional;0,4593;262,0547;0,9106;Institucional
-55-Mayorista;0,4106;47,2879;0,9464;Mayorista
-60-Artes graficas;0,4595;265,6175;0,8376;Artes graficas
-60-Institucional;0,4673;462,4593;0,855;Institucional
-60-Mayorista;0,4499;335,5777;0,8634;Mayorista
-60-V Horeca;0,483;91,3281;0,8819;V Horeca
-60-V SyE;0,5173;75,8525;0,7793;V SyE
-65-Institucional;0,452;248,4933;0,8745;Institucional
-65-Mayorista;0,4473;122,8425;0,8117;Mayorista
-65-V SyE;0,4596;53,4957;0,7763;V SyE
-70-Artes graficas;0,4996;192,557;0,8543;Artes graficas
-70-Institucional;0,4934;874,6106;0,8658;Institucional
-70-Mayorista;0,6176;104,7328;0,5881;Mayorista
-70-TIG;0,5122;122,0199;0,7753;TIG
-70-V Horeca;0,4511;79,7591;0,9429;V Horeca
-71-Artes graficas;0,4705;230,8582;0,8004;Artes graficas
-71-Institucional;0,5056;116,2148;0,8031;Institucional
-71-Mayorista;0,75;1,0;0,0;Mayorista
-71-TIG;0,4545;46,9462;0,8647;TIG
-71-V Industria;0,5302;143,5037;0,809;V Industria
-75-Artes graficas;0,4704;133,3038;0,8194;Artes graficas
-75-Institucional;0,4898;301,0291;0,8542;Institucional
-75-Mayorista;0,45;162,4907;0,849;Mayorista
-90-Artes graficas;0,485;214,7802;0,8417;Artes graficas
-90-Institucional;0,4911;525,3754;0,9193;Institucional
-90-Mayorista;0,4522;167,6017;0,8944;Mayorista
+50-V Industria;0,3883;104,1802;1,0964;V Industria
+50-V SyE;0,3964;75,6107;0,927;V SyE
+52-Artes graficas;0,4552;57,4545;0,748;Artes graficas
+52-Institucional;0,4138;173,2488;0,9431;Institucional
+52-Mayorista;0,3693;79,3434;0,9956;Mayorista
+53-Artes graficas;0,4783;53,9394;0,7272;Artes graficas
+53-Institucional;0,3931;83,8019;0,9823;Institucional
+53-Mayorista;0,4463;70,5905;0,8155;Mayorista
+55-Artes graficas;0,3696;67,304;1,0217;Artes graficas
+55-Institucional;0,3979;258,4784;0,9437;Institucional
+55-Mayorista;0,347;45,7829;0,9424;Mayorista
+60-Artes graficas;0,3775;224,4197;0,9331;Artes graficas
+60-Institucional;0,4053;462,7046;0,9386;Institucional
+60-Mayorista;0,39;302,166;0,9329;Mayorista
+60-V Horeca;0,4155;77,0732;0,8997;V Horeca
+60-V SyE;0,4342;81,2553;0,9408;V SyE
+65-Institucional;0,4014;231,737;0,9242;Institucional
+65-Mayorista;0,3817;116,0704;1,0067;Mayorista
+65-V SyE;0,3997;56,3842;0,9376;V SyE
+70-Artes graficas;0,4705;192,0521;0,948;Artes graficas
+70-Institucional;0,4064;791,1334;0,9364;Institucional
+70-Mayorista;0,5982;97,1532;0,5752;Mayorista
+70-TIG;0,403;89,2219;0,9503;TIG
+70-V Horeca;0,4001;77,1205;0,8807;V Horeca
+71-Artes graficas;0,4509;238,8778;0,8546;Artes graficas
+71-Institucional;0,439;113,2644;0,9085;Institucional
+71-Mayorista;0,4316;40,3958;0,5175;Mayorista
+71-TIG;0,416;43,3977;0,8717;TIG
+71-V Industria;0,4633;126,672;0,8492;V Industria
+75-Artes graficas;0,4011;113,4733;1,0185;Artes graficas
+75-Institucional;0,4256;262,5466;0,9122;Institucional
+75-Mayorista;0,4168;155,1757;0,8728;Mayorista
+90-Artes graficas;0,4444;203,0481;0,9075;Artes graficas
+90-Institucional;0,413;469,4905;1,0156;Institucional
+90-Mayorista;0,3602;155,1656;1,0046;Mayorista
