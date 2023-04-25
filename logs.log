@@ -1962,3 +1962,23 @@
 2023-04-13 17:53:21,036:INFO:create_model() successfully completed......................................
 2023-04-13 17:53:31,113:INFO:Initializing predict_model()
 2023-04-13 17:53:31,114:INFO:predict_model(self=<pycaret.clustering.oop.ClusteringExperiment object at 0x0000013A9E19C760>, estimator=KMeans(n_clusters=5, random_state=7312), ml_usecase=None)
+2023-04-24 09:29:35,058:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-24 09:29:35,060:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-24 09:29:35,060:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-24 09:29:35,060:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-24 09:29:35,082:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-24 18:56:35,459:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-24 18:56:35,462:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-24 18:56:35,462:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-24 18:56:35,463:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-24 18:56:35,481:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
